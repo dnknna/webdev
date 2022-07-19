@@ -1,0 +1,286 @@
+body {
+    position: relative;
+    background-color: rgb(199, 154, 240);
+  }
+
+.blo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 0%;
+    text-align: center;
+    width: 100%;
+    height: 50%;
+}
+
+  #path9274  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9274 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9274 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    50%  {left:50px; top:100px; right: 100px;}
+  }
+  #path9276  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 10s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9276 3s forwards alternate infinite;
+  }
+  
+  @keyframes path9276 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    50%  {
+    left:50px; top:100px; right: 100px;
+    }
+  }
+  #path9417  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9417 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9417 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    75%  {left:50px; top:100px; right: 100px;}
+}
+#path9419  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9419 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9419 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    75%  {left:50px; top:100px; right: 100px;}
+}
+#path9407  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9407 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9407 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    50%  {left:50px; top:100px; right: 100px;}
+  }
+  #path9409  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9409 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9409 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    50%  {left:50px; top:100px; right: 100px;}
+  }
+  #path9377  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9379 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9379 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    75%  {left:50px; top:100px; right: 100px;}
+}
+#path9379  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9379 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9379 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    75%  {left:50px; top:100px; right: 100px;}
+}
+#path9399  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9399 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9399 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    75%  {left:50px; top:100px; right: 100px;}
+}
+#path9397  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9397 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9397 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    75%  {left:50px; top:100px; right: 100px;}
+}
+#path9427  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9427 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9427 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    50%  {left:50px; top:100px; right: 100px;}
+  }
+  #path9429  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9429 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9429 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    50%  {left:50px; top:100px; right: 100px;}
+  }
+  #path9389  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9389 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9389 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    50%  {left:50px; top:100px; right: 100px;}
+  }
+  #path9387  {
+    /* animation-name: blocks;
+      animation-duration: 5s; */
+    /* animation-delay: 5s; */
+    /* animation-iteration-count: infinite; */
+    /* animation-direction: reverce; */
+    /* animation-fill-mode: forwards; */
+    animation: path9387 3s  forwards alternate infinite;
+  }
+  
+  @keyframes path9387 {
+    0% {
+      transform: translate(30px, -20px);
+    }
+    100% {
+      transform: translate(-3px, 5px);
+    }
+    50%  {left:50px; top:100px; right: 100px;}
+  }
